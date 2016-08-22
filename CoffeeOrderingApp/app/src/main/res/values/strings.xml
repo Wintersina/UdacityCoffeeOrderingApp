@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coffee</string>
+    <string name="quantity">Quantity</string>
+    <string name="button_text_add">+</string>
+    <string name="button_text_sub">-</string>
+    <string name="total_text">Total</string>
+</resources>
